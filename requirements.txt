@@ -5,7 +5,7 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
-pickle5
+
 
 # conda create -p ./venv python=3.11
 # conda activate ./venv
